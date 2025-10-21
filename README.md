@@ -9,11 +9,11 @@ Fancy stats:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=foxelyss&layout=donut&theme=dracula&size_weight=0.5&count_weight=0.5"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=foxelyss&layout=donut&theme=dracula&size_weight=0.5&count_weight=0.5&exclude_repo=Foxelyss.github.io%2Dold%2D,foxelyss.github.io"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=foxelyss&layout=donut&theme=buefy&size_weight=0.5&count_weight=0.5"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=foxelyss&layout=donut&theme=buefy&size_weight=0.5&count_weight=0.5&exclude_repo=Foxelyss.github.io%2Dold%2D,foxelyss.github.io"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=foxelyss&layout=donut" height=200 align="center" />
