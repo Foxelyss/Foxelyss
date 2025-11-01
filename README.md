@@ -33,7 +33,23 @@ Fancy stats:
   <img src="https://github-readme-stats.vercel.app/api?username=foxelyss&show_icons=true" height=200 align="center" />
 </picture>
 </a>
+<br>
 
+<center>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+  <picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=foxelyss&langs_count=15&layout=compact&theme=dracula"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=foxelyss&langs_count=15&layout=compact&theme=buefy"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=foxelyss" height=200 align="center" />
+</picture>
+</a>
+</center>
 
 <!--
 **Foxelyss/Foxelyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
