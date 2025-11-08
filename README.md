@@ -53,6 +53,7 @@ Fancy stats:
 </a>
 </center>
 
+_Wanna make some memes? Even though this telegram bot not translated, it's [still self-explanatory](https://t.me/NullStackTraceBot)_
 <!--
 **Foxelyss/Foxelyss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
