@@ -1,8 +1,10 @@
-# Greetings everyone 👋
+# Hi!
 
-I'm python programmer nowadays, but i've programming for a lot time in different langs mostly C# and C++. 
-Like Arduino and DIY projects with low level IC, but have no time to make something finished.
-Love constraints of retro hardware, but hate to wait when my PC finishes compilation or other heavy tasks 🤣
+I'm good level programmer for games and general applications. Week or two and some convoluted or complicated, or just right obscure task will be done.
+
+I like Arduino and DIY projects with low level IC, but have no time to make something finished. If somebody would have done everything, but not code, I would love to make something, even if I have a little prior experience.
+
+Love constraints of retro hardware, but hate to wait when my PC finishes compilation or other heavy tasks 🤣, time is the charm I think.
 
 Fancy stats:
 
